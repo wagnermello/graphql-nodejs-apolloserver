@@ -1,0 +1,25 @@
+{
+  "name": "graphql-nodejs-apolloserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnermello/graphql-nodejs-apolloserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnermello/graphql-nodejs-apolloserver/issues"
+  },
+  "homepage": "https://github.com/wagnermello/graphql-nodejs-apolloserver#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
